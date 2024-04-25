@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sorting-Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|d:\\sorting-algorithms\\sortwfv5\\sorting algorithms\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\patiencesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\patiencesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\doubleselectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\doubleselectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\cocktailshakersort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\cocktailshakersort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\sorting algorithms\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\sorting algorithms\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|D:\\Sorting-Algorithms\\sortwfv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9B99C4-A7CD-4103-8147-03311325B388}|SortWFv5\\SortWFv5.csproj|solutionrelative:sortwfv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShellSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\ShellSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\ShellSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\ShellSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\ShellSort.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:20:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\SelectionSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\SelectionSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\SelectionSort.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:20:38.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\Sort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\Sort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\Sort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\Sort.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:39:37.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatienceSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\PatienceSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\PatienceSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\PatienceSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\PatienceSort.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:46:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\MergeSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\MergeSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\MergeSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\MergeSort.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:24:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\InsertionSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\InsertionSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\InsertionSort.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAxwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:17:16.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoubleSelectionSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\DoubleSelectionSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\DoubleSelectionSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\DoubleSelectionSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\DoubleSelectionSort.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:00:00.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Form1.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Form1.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Form1.cs",
+              "RelativeToolTip": "SortWFv5\\Form1.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwIEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:18:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CocktailShakerSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\CocktailShakerSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\CocktailShakerSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\CocktailShakerSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\CocktailShakerSort.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:19:50.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Sorting Algorithms\\BubbleSort.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Sorting Algorithms\\BubbleSort.cs",
+              "RelativeToolTip": "SortWFv5\\Sorting Algorithms\\BubbleSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:19:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Form1.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Form1.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Form1.cs [Design]",
+              "RelativeToolTip": "SortWFv5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:18:53.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sorting-Algorithms\\SortWFv5\\Program.cs",
+              "RelativeDocumentMoniker": "SortWFv5\\Program.cs",
+              "ToolTip": "D:\\Sorting-Algorithms\\SortWFv5\\Program.cs",
+              "RelativeToolTip": "SortWFv5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:18:41.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
